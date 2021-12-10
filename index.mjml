@@ -1,0 +1,232 @@
+<mjml>
+  <mj-head>
+    <mj-title>Shop new men's arrivals</mj-title>
+    <mj-attributes>
+      <mj-breakpoint width="320px" />
+      <mj-text font-family="Helvetica, Arial" padding="0" />
+      <mj-image padding="0" />
+      <mj-column padding="0" />
+      <mj-section padding="0" />
+      <mj-class name="light-gray" background-color="#e5e5e3" />
+      <mj-class name="army" background-color="#505040" />
+      <mj-class name="white" background-color="#ffffff" />
+      <mj-button border-radius="0px" background-color="#ec492b" font-size="16px" font-weight="600" color="#ffffff" inner-padding="15px" padding="0" font-family="Arial,Helvetica,sans-serif" />
+      <mj-class name="p-1" font-size="16px" color="#707070" line-height="1.4" />
+      <mj-class name="p-2" font-size="14px" color="#d1d1cd" line-height="1.2" />
+      <mj-class name="p-3" font-size="11px" color="#000000" line-height="1.2" />
+      <mj-class name="p-4" font-size="11px" color="#b9b9b3" line-height="1.2" />
+      <mj-class name="menu" font-size="16px" color="#000000" line-height="1.2" font-weight="bold" width="110px" />
+    </mj-attributes>
+
+    <mj-style>
+      @media (min-width:300px) and (max-width:480px) {
+        .logo-image {
+          width: 40% !important;
+        }
+
+        .logo-image img {
+          width: 115px !important;
+        }
+
+        .menu table{
+          max-width: 100% !important;
+          padding-top: 5px !important;
+        }
+
+        .menu div {
+          width: 100% !important;
+
+          padding-left: 30%;
+        }
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body>
+    <mj-container>
+      <mj-section mj-class="light-gray">
+        <mj-column>
+          <mj-text mj-class="p-3" align="center" padding-top="15px">
+            New Arrivals
+          </mj-text>
+          <mj-text mj-class="p-3" align="center" padding-bottom="20px">
+            <a href="https://duckduckgo.com/" style="color: #000;">view in browser</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section mj-class="light-gray">
+        <mj-column css-class="logo-image" padding-left="30px">
+          <mj-image align="left" src="https://github.com/lee-android/511-email-mjml/blob/main/logo.png?raw=true" alt="5.11 Logo" />
+        </mj-column>
+        <mj-column padding-left="43px">
+          <mj-text css-class="menu" mj-class="menu" font-size="16px" align="left">
+            Men's
+          </mj-text>
+        </mj-column>
+        <mj-column padding-left="43px">
+          <mj-text mj-class="menu" css-class="menu" font-size="16px" align="left">
+            Women's
+          </mj-text>
+        </mj-column>
+        <mj-column padding-left="43px">
+          <mj-text mj-class="menu" css-class="menu" font-size="16px" align="left">
+            Bags & Packs
+          </mj-text>
+        </mj-column>
+        <mj-column padding-left="43px">
+          <mj-text mj-class="menu" css-class="menu" font-size="16px" align="left">
+            Sale
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="army">
+        <mj-column width="100%">
+          <mj-text mj-class="p-2" align="center" color="white" padding="5px">
+            FREE GROUND SHIPPING ON ORDERS OVER $35 (U.S ONLY)
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column width="100%">
+          <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/newarrivals.jpg?raw=true" alt="New Product Arrivals" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="50px" mj-class="white">
+        <mj-column>
+          <mj-text align="center" mj-class="p-1">
+            Gear up with our new Fall apparel that will get you through<br />
+            the colder months ahead.
+          </mj-text>
+          <mj-button align="center" padding-top="30px">
+            SHOP NOW
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="white">
+        <mj-column>
+          <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/randolph.jpg?raw=true" alt="Randolph Shirt Jacket" padding-top="40px" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="white">
+        <mj-column>
+          <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/jasper.jpg?raw=true" alt="Jasper Thermal Longsleeve Shirt" padding-top="10px" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="white">
+        <mj-column>
+          <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/defender.jpg?raw=true" alt="Defender-flex Range Pant" padding-top="10px" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="white">
+        <mj-column>
+          <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/gunner.jpg?raw=true" alt="Gunner Plaid Longsleeve Shirt" padding-top="10px" />
+        </mj-column>
+      </mj-section>
+      <!--Big Button Section-->
+
+      <mj-section mj-class="white" padding="20px 10px">
+        <mj-column>
+          <mj-button width="250px" padding="0 0 20px 0">
+            <a href="https://www.511tactical.com/new/mens.html" style="color: white; text-decoration: none;">SHOP NEW APPARAL</a>
+          </mj-button>
+          <mj-button width="250px" padding="0 0 20px 0">
+            <a href="https://www.511tactical.com/footwear.html" style="color: white; text-decoration: none;">SHOP NEW FOOTWEAR</a>
+          </mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-button width="250px" padding="0 0 20px 0">
+            <a href="https://www.511tactical.com/bags-packs.html" style="color: white; text-decoration: none;">SHOP NEW BAGS & PACKS</a>
+          </mj-button>
+          <mj-button width="250px" padding="0 0 20px 0">
+            <a href="https://www.511tactical.com/accessories.html" style="color: white; text-decoration: none;">SHOP NEW ACCESSORIES</a>
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <!--Big Button Section-->
+      <mj-section mj-class="white">
+        <mj-column width="100%">
+          <mj-text mj-class="p-2" font-weight="600" align="center">
+            ITEMS YOU MIGHT BE INTERESTED IN
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="white" padding-top="15px">
+        <mj-column>
+          <mj-image href="https://www.511tactical.com/stryke-pant.html?utm_source=207876&utm_medium=affiliate&clickId=3763588002&queryID=fa25bdc3c9bf96bcab2a4ecd40381c04&objectID=84191&indexName=magento2_productiondefault_products" src="https://github.com/lee-android/511-email-mjml/blob/main/stryke.jpg?raw=true" alt="5.11 Stryke Pant - Tan Colorway" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.511tactical.com/tracker-bifold-wallet.html?queryID=f95cae63db47162c45ee9f9ed7eef086&objectID=209646&indexName=magento2_productiondefault_products" src="https://github.com/lee-android/511-email-mjml/blob/main/bifold.jpg?raw=true" alt="5.11 Tracker Bifold Wallet" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="https://www.511tactical.com/stryke-pant.html?queryID=43df4421e9280cb1079e3b01aaa31bf6&objectID=84191&indexName=magento2_productiondefault_products" src="https://github.com/lee-android/511-email-mjml/blob/main/stryke2.jpg?raw=true" alt="5.11 Stryke Pant - Navy Colorway" />
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="white" padding-top="20px">
+        <mj-column>
+          <mj-image href="https://www.511tactical.com/store-locator" src="https://github.com/lee-android/511-email-mjml/blob/main/shopfind.png?raw=true" alt="" />
+        </mj-column>
+      </mj-section>
+
+      <!--social icons-->
+      <mj-section css-class="socials" mj-class="army">
+        <mj-group width="60%">
+          <mj-column padding-top="15px">
+            <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/twitter.png?raw=true" alt="5.11 Twitter Account" width="23px" />
+          </mj-column>
+          <mj-column padding-top="15px">
+            <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/facebook.png?raw=true" alt="5.11 Twitter Account" width="23px" />
+          </mj-column>
+          <mj-column padding-top="15px">
+            <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/instagram.png?raw=true" alt="5.11 Twitter Account" width="23px" />
+          </mj-column>
+          <mj-column padding-top="15px">
+            <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/youtube.png?raw=true" alt="5.11 Twitter Account" width="23px" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section mj-class="army" padding-top="25px">
+        <mj-column>
+          <mj-text mj-class="p-3" align="center" text-transform="uppercase" color="#d1d1cd">
+            <a href="https://duckduckgo.com" style="color:#d1d1cd;">unsubscribe</a> | <a href="https://duckduckgo.com" style="color:#d1d1cd;">MANAGE PREFERENCES</a> | <a href="https://duckduckgo.com" style="color:#d1d1cd;">FAQ<span style="text-transform: none">s</span></a> | <a href="https://www.511tactical.com/store-locator" style="color:#d1d1cd;">5.11 Locations</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="army" padding-top="10px">
+        <mj-column>
+          <mj-text align="center" mj-class="p-2" text-transform="uppercase" font-weight="600">
+            need help? <span style="color: white;">CALL (800) 408-1655</span>
+          </mj-text>
+          <mj-text padding-top="15px" align="center" mj-class="p-3" color="#d1d1cd">
+            Free ground shipping to U.S. addresses only. Freight, Duty, and VAT charges may apply<br /> to
+            orders placed internationally.
+          </mj-text>
+          <mj-text padding-top="20px" mj-class="p-3" align="center" color="#d1d1cd">
+            Product prices and availability are subject to change and may vary from those in retail stores<br />
+            and International dealers. Closeout products and prices are only available at <a href="https://511tactical.com" style="color:#d1d1cd;">511tactical.com</a>.
+          </mj-text>
+          </mj-text>
+          <mj-text padding-top="20px" mj-class="p-3" align="center" color="#d1d1cd">
+            This email was sent to <span style="color: #000;">thisisafake@gmail.com</span> by 5.11 Tactical - 1360 Reynolds Ave | Irvine | CA | 92614
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class="army" padding-top="15px">
+          <mj-column>
+              <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/beready.jpg?raw=true" alt="" />
+          </mj-column>
+      </mj-section>
+      <mj-section background-color="#d1d1cd">
+          <mj-column>
+              <mj-text align="center" padding="10px" mj-class="p-3" color="#808080">
+                  21.f.1015
+              </mj-text>
+          </mj-column>
+      </mj-section>
+
+      <!--social icons-->
+
+
+    </mj-container>
+  </mj-body>
+</mjml>
