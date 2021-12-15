@@ -57,7 +57,7 @@
 
       <mj-section mj-class="light-gray">
         <mj-column css-class="logo-image" padding-left="30px">
-          <mj-image align="left" src="https://github.com/lee-android/511-email-mjml/blob/main/logo.png?raw=true" alt="5.11 Logo" />
+          <mj-image align="left" src="https://raw.githubusercontent.com/lee-android/511-email/master/img/logo.png" alt="5.11 Logo" />
         </mj-column>
         <mj-column padding-left="43px">
           <mj-text css-class="menu" mj-class="menu" font-size="16px" align="left">
@@ -89,7 +89,7 @@
       </mj-section>
       <mj-section>
         <mj-column width="100%">
-          <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/newarrivals.jpg?raw=true" alt="New Product Arrivals" />
+          <mj-image src="https://raw.githubusercontent.com/lee-android/511-email/master/img/newarrivals.jpg?raw=true" alt="New Product Arrivals" />
         </mj-column>
       </mj-section>
       <mj-section padding-top="50px" mj-class="white">
@@ -105,22 +105,22 @@
       </mj-section>
       <mj-section mj-class="white">
         <mj-column>
-          <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/randolph.jpg?raw=true" alt="Randolph Shirt Jacket" padding-top="40px" />
+          <mj-image src="https://raw.githubusercontent.com/lee-android/511-email/master/img/randolph.jpg?raw=true" alt="Randolph Shirt Jacket" padding-top="40px" />
         </mj-column>
       </mj-section>
       <mj-section mj-class="white">
         <mj-column>
-          <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/jasper.jpg?raw=true" alt="Jasper Thermal Longsleeve Shirt" padding-top="10px" />
+          <mj-image src="https://raw.githubusercontent.com/lee-android/511-email/master/img/jasper.jpg?raw=true" alt="Jasper Thermal Longsleeve Shirt" padding-top="10px" />
         </mj-column>
       </mj-section>
       <mj-section mj-class="white">
         <mj-column>
-          <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/defender.jpg?raw=true" alt="Defender-flex Range Pant" padding-top="10px" />
+          <mj-image src="https://raw.githubusercontent.com/lee-android/511-email/master/img/defender.jpg?raw=true" alt="Defender-flex Range Pant" padding-top="10px" />
         </mj-column>
       </mj-section>
       <mj-section mj-class="white">
         <mj-column>
-          <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/gunner.jpg?raw=true" alt="Gunner Plaid Longsleeve Shirt" padding-top="10px" />
+          <mj-image src="https://raw.githubusercontent.com/lee-android/511-email/master/img/gunner.jpg?raw=true" alt="Gunner Plaid Longsleeve Shirt" padding-top="10px" />
         </mj-column>
       </mj-section>
       <!--Big Button Section-->
@@ -153,18 +153,18 @@
       </mj-section>
       <mj-section mj-class="white" padding-top="15px">
         <mj-column>
-          <mj-image href="https://www.511tactical.com/stryke-pant.html?utm_source=207876&utm_medium=affiliate&clickId=3763588002&queryID=fa25bdc3c9bf96bcab2a4ecd40381c04&objectID=84191&indexName=magento2_productiondefault_products" src="https://github.com/lee-android/511-email-mjml/blob/main/stryke.jpg?raw=true" alt="5.11 Stryke Pant - Tan Colorway" />
+          <mj-image href="https://www.511tactical.com/stryke-pant.html?utm_source=207876&utm_medium=affiliate&clickId=3763588002&queryID=fa25bdc3c9bf96bcab2a4ecd40381c04&objectID=84191&indexName=magento2_productiondefault_products" src="https://raw.githubusercontent.com/lee-android/511-email/master/img/stryke.jpg?raw=true" alt="5.11 Stryke Pant - Tan Colorway" />
         </mj-column>
         <mj-column>
-          <mj-image href="https://www.511tactical.com/tracker-bifold-wallet.html?queryID=f95cae63db47162c45ee9f9ed7eef086&objectID=209646&indexName=magento2_productiondefault_products" src="https://github.com/lee-android/511-email-mjml/blob/main/bifold.jpg?raw=true" alt="5.11 Tracker Bifold Wallet" />
+          <mj-image href="https://www.511tactical.com/tracker-bifold-wallet.html?queryID=f95cae63db47162c45ee9f9ed7eef086&objectID=209646&indexName=magento2_productiondefault_products" src="https://raw.githubusercontent.com/lee-android/511-email/master/img/bifold.jpg?raw=true" alt="5.11 Tracker Bifold Wallet" />
         </mj-column>
         <mj-column>
-          <mj-image href="https://www.511tactical.com/stryke-pant.html?queryID=43df4421e9280cb1079e3b01aaa31bf6&objectID=84191&indexName=magento2_productiondefault_products" src="https://github.com/lee-android/511-email-mjml/blob/main/stryke2.jpg?raw=true" alt="5.11 Stryke Pant - Navy Colorway" />
+          <mj-image href="https://www.511tactical.com/stryke-pant.html?queryID=43df4421e9280cb1079e3b01aaa31bf6&objectID=84191&indexName=magento2_productiondefault_products" src="https://raw.githubusercontent.com/lee-android/511-email/master/img/stryke2.jpg?raw=true" alt="5.11 Stryke Pant - Navy Colorway" />
         </mj-column>
       </mj-section>
       <mj-section mj-class="white" padding-top="20px">
         <mj-column>
-          <mj-image href="https://www.511tactical.com/store-locator" src="https://github.com/lee-android/511-email-mjml/blob/main/shopfind.png?raw=true" alt="" />
+          <mj-image href="https://www.511tactical.com/store-locator" src="https://raw.githubusercontent.com/lee-android/511-email/master/img/shopfind.png?raw=true" alt="" />
         </mj-column>
       </mj-section>
 
@@ -172,16 +172,16 @@
       <mj-section css-class="socials" mj-class="army">
         <mj-group width="60%">
           <mj-column padding-top="15px">
-            <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/twitter.png?raw=true" alt="5.11 Twitter Account" width="23px" />
+            <mj-image src="https://raw.githubusercontent.com/lee-android/511-email/master/img/twitter.png?raw=true" alt="5.11 Twitter Account" width="23px" />
           </mj-column>
           <mj-column padding-top="15px">
-            <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/facebook.png?raw=true" alt="5.11 Twitter Account" width="23px" />
+            <mj-image src="https://raw.githubusercontent.com/lee-android/511-email/master/img/facebook.png?raw=true" alt="5.11 Twitter Account" width="23px" />
           </mj-column>
           <mj-column padding-top="15px">
-            <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/instagram.png?raw=true" alt="5.11 Twitter Account" width="23px" />
+            <mj-image src="https://raw.githubusercontent.com/lee-android/511-email/master/img/instagram.png?raw=true" alt="5.11 Twitter Account" width="23px" />
           </mj-column>
           <mj-column padding-top="15px">
-            <mj-image src="https://github.com/lee-android/511-email-mjml/blob/main/youtube.png?raw=true" alt="5.11 Twitter Account" width="23px" />
+            <mj-image src="https://raw.githubusercontent.com/lee-android/511-email/master/img/youtube.png?raw=true" alt="5.11 Twitter Account" width="23px" />
           </mj-column>
         </mj-group>
       </mj-section>
