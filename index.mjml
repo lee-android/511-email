@@ -56,10 +56,10 @@
       </mj-section>
 
       <mj-section mj-class="light-gray">
-        <mj-column css-class="logo-image" padding-left="30px">
+        <mj-column css-class="logo-image" align="center" width="120px" padding-bottom="20px">
           <mj-image align="left" src="https://raw.githubusercontent.com/lee-android/511-email/master/img/logo.png" alt="5.11 Logo" />
         </mj-column>
-        <mj-column padding-left="43px">
+        <!-- <mj-column padding-left="43px">
           <mj-text css-class="menu" mj-class="menu" font-size="16px" align="left">
             Men's
           </mj-text>
@@ -78,7 +78,7 @@
           <mj-text mj-class="menu" css-class="menu" font-size="16px" align="left">
             Sale
           </mj-text>
-        </mj-column>
+        </mj-column> -->
       </mj-section>
       <mj-section mj-class="army">
         <mj-column width="100%">
